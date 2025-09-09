@@ -148,11 +148,11 @@ GraphQL endpoint: [http://localhost:8080/graphql](http://localhost:8080/graphql)
 
 > A screenshot of Banana Cake Pop Playground here 👇  
 
-![GraphQL Playground Preview](Assets/screenshot.png)  
+![GraphQL Playground Preview](videos_graph_ql/Assets/screenshot.png)  
 
 > Or the real app running
 
-![GraphQL Playground Preview](Assets/screenshot_real.png)
+![GraphQL Playground Preview](videos_graph_ql/Assets/screenshot_real.png)
 
 ---
 
