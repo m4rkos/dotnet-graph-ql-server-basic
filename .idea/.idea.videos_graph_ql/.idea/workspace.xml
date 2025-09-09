@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc40166b-75a6-4bc8-b967-9159c8f5f722" name="Changes" comment="" />
+    <list default="true" id="dc40166b-75a6-4bc8-b967-9159c8f5f722" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/videos_graph_ql.sln" beforeDir="false" afterPath="$PROJECT_DIR$/videos_graph_ql.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos_graph_ql/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757412310734</updated>
-      <workItem from="1757412320886" duration="3718000" />
+      <workItem from="1757412320886" duration="4021000" />
     </task>
     <task id="LOCAL-00001" summary="created base structure">
       <option name="closed" value="true" />
@@ -112,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757419052146</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed branch">
+      <option name="closed" value="true" />
+      <created>1757419292893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757419292893</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +134,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="created base structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="created base structure" />
+    <MESSAGE value="changed branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
