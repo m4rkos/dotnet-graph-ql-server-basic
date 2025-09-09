@@ -1,0 +1,7 @@
+﻿services:
+  videos_graph_ql:
+    image: videos_graph_ql
+    build:
+      context: .
+      dockerfile: videos_graph_ql/Dockerfile
+
