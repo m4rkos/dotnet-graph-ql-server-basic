@@ -41,8 +41,8 @@ Catalog.GraphQL/
 
 ### 1. Clone & Install  
 ```bash
-  git clone <repo-url>
-  cd Catalog.GraphQL
+  git clone git@github.com:m4rkos/dotnet-graph-ql-server-basic.git
+  cd dotnet-graph-ql-server-basic/videos_graph_ql
   dotnet restore
 ```
 
